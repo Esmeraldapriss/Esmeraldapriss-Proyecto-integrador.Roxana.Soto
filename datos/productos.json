@@ -1,0 +1,86 @@
+[
+    {
+        "codigo": "Combo1",
+        "nombre": "Viaje a la polynesia",
+        "imagen": [
+            "https://cdn.pixabay.com/photo/2017/12/15/13/51/polynesia-3021072_640.jpg",
+            "https://cdn.pixabay.com/photo/2016/03/04/19/36/beach-1236581_1280.jpg",
+            "https://cdn.pixabay.com/photo/2015/10/30/20/13/sunrise-1014712_640.jpg",
+            "https://cdn.pixabay.com/photo/2015/03/22/23/07/bora-bora-685303_640.jpg",
+            "https://cdn.pixabay.com/photo/2017/01/20/00/30/maldives-1993704_640.jpg",
+            "https://cdn.pixabay.com/photo/2017/02/22/17/02/beach-2089936_640.jpg",
+            "https://cdn.pixabay.com/photo/2015/07/05/13/44/beach-832346_640.jpg",
+            "https://cdn.pixabay.com/photo/2017/06/17/18/35/beach-2413081_640.jpg"            
+            ],
+        "descripcion": "Viaje a la polynesia, promo matrimonio aniversario, realiza el viaje de tus sueños en cuotas.",
+        "precio": "500",
+        "active":"active",
+        "ariaCurrent":"true"
+    },
+    {
+        "codigo": "Combo2",
+        "nombre": "Ushuaia",
+        "imagen": [
+            "https://cdn.pixabay.com/photo/2016/12/11/12/02/mountains-1899264_640.jpg",
+            "https://cdn.pixabay.com/photo/2014/05/22/16/52/pyrenees-351266_640.jpg",
+            "https://cdn.pixabay.com/photo/2016/08/27/14/38/mountains-1624284_640.jpg",
+            "https://cdn.pixabay.com/photo/2014/09/21/17/56/mountaineering-455338_640.jpg",
+            "https://cdn.pixabay.com/photo/2021/06/22/17/24/torres-del-paine-6356782_640.jpg",
+            "./img/iphone_13_5.webp",
+            "./img/iphone_13_6.webp",
+            "./img/iphone_13_7.webp"
+            ],
+        "descripcion": "Viaja al fin del mundo y descubri sus maravillas.",
+        "precio": "500",
+        "active":"",
+        "ariaCurrent":""
+    },
+    {
+        "codigo": "Combo3",
+        "nombre": "Buenos Aires",
+        "imagen": [
+            "",            
+            "",            
+            "",            
+            "",            
+            "",            
+            ""      
+            ],
+        "descripcion": "Descubri el encanto de Buenos Aires y todo lo que tiene para ofrecerte.",
+        "precio": "230",
+        "active":"",
+        "ariaCurrent":""
+    },
+    {
+        "codigo": "Combo4",
+        "nombre": "Aventura",
+        "imagen": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+            ],
+        "descripcion": "Descubri los bellos paisajes, por medio del trekking, una aventura solo para valientes",
+        "precio": "600",
+        "active":"",
+        "ariaCurrent":""
+    },
+    {
+        "codigo": "Combo5",
+        "nombre": "Misiones salvaje",
+        "imagen": [
+            "",           
+            "",           
+            "",           
+            "",           
+            "."          
+            ],
+        "descripcion": "Queres admimirar paisajes, gastronomia gourmet y unos buenos mates, descubri Misiones",
+        "precio": "200",
+        "active":"",
+        "ariaCurrent":""
+    }
+]
