@@ -26,9 +26,9 @@
             "https://cdn.pixabay.com/photo/2016/08/27/14/38/mountains-1624284_640.jpg",
             "https://cdn.pixabay.com/photo/2014/09/21/17/56/mountaineering-455338_640.jpg",
             "https://cdn.pixabay.com/photo/2021/06/22/17/24/torres-del-paine-6356782_640.jpg",
-            "./img/iphone_13_5.webp",
-            "./img/iphone_13_6.webp",
-            "./img/iphone_13_7.webp"
+            "https://cdn.pixabay.com/photo/2017/02/01/22/02/mountain-landscape-2031539_640.jpg",
+            "https://cdn.pixabay.com/photo/2017/03/15/13/27/rough-horn-2146181_640.jpg",
+            "https://cdn.pixabay.com/photo/2017/12/10/17/07/alps-3010323_640.jpg"
             ],
         "descripcion": "Viaja al fin del mundo y descubri sus maravillas.",
         "precio": "500",
@@ -39,12 +39,11 @@
         "codigo": "Combo3",
         "nombre": "Buenos Aires",
         "imagen": [
-            "",            
-            "",            
-            "",            
-            "",            
-            "",            
-            ""      
+            "https://cdn.pixabay.com/photo/2014/10/30/00/15/buenos-aires-508790_640.jpg",            
+            "https://cdn.pixabay.com/photo/2012/06/16/02/30/caminito-50076_640.jpg",            
+            "https://cdn.pixabay.com/photo/2016/03/12/20/03/coffee-cup-1252671_640.jpg",            
+            "https://cdn.pixabay.com/photo/2017/06/24/14/13/buenos-aires-2437858_640.jpg",
+            "https://cdn.pixabay.com/photo/2013/05/01/21/46/tango-108483_1280.jpg"      
             ],
         "descripcion": "Descubri el encanto de Buenos Aires y todo lo que tiene para ofrecerte.",
         "precio": "230",
@@ -55,13 +54,13 @@
         "codigo": "Combo4",
         "nombre": "Aventura",
         "imagen": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "https://cdn.pixabay.com/photo/2015/09/02/12/30/hiker-918473_640.jpg",
+            "https://cdn.pixabay.com/photo/2016/11/22/19/25/adventure-1850178_640.jpg",
+            "https://cdn.pixabay.com/photo/2020/10/12/19/10/mountaineers-5649828_640.jpg",
+            "https://cdn.pixabay.com/photo/2021/07/08/03/55/mount-everest-6395759_640.jpg",
+            "https://cdn.pixabay.com/photo/2019/08/12/10/03/tourist-4400871_640.jpg",
+            "https://cdn.pixabay.com/photo/2019/12/13/08/21/gokyo-ri-4692458_640.jpg",
+            "https://cdn.pixabay.com/photo/2015/07/12/23/42/friends-842580_640.jpg"
             ],
         "descripcion": "Descubri los bellos paisajes, por medio del trekking, una aventura solo para valientes",
         "precio": "600",
@@ -72,11 +71,11 @@
         "codigo": "Combo5",
         "nombre": "Misiones salvaje",
         "imagen": [
-            "",           
-            "",           
-            "",           
-            "",           
-            "."          
+            "https://cdn.pixabay.com/photo/2016/05/26/12/56/waterfalls-1417102_640.jpg",           
+            "https://cdn.pixabay.com/photo/2018/01/30/22/48/rainforest-3119822_640.jpg",           
+            "https://cdn.pixabay.com/photo/2020/05/29/17/12/sunset-5235908_640.jpg",           
+            "https://cdn.pixabay.com/photo/2017/06/22/20/14/salmon-2432339_640.jpg",           
+            "https://cdn.pixabay.com/photo/2021/05/17/04/34/mate-tea-6259745_640.jpg"          
             ],
         "descripcion": "Queres admimirar paisajes, gastronomia gourmet y unos buenos mates, descubri Misiones",
         "precio": "200",
